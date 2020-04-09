@@ -1,0 +1,19 @@
+
+A - It should use at least four different types of event controls. 
+B - It should utilise at least four different event handlers. 
+C - The code should demonstrate good use of identifiers, constructs and functions. 
+ 
+The editor is also looking for clear and helpful comments within the code that documents what is 
+happening at any point within the program. 
+
+Do something once key pressed click
+-
+
+Do something on button clikced
+- Timer / start timer and stop timer
+
+Data structure queue<T>
+-
+
+Textbox
+-
